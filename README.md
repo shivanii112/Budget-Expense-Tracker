@@ -7,7 +7,7 @@ React.js • JavaScript (ES6+) • Chart.js • localStorage • CSS Modules
 
 ## 🧾 Overview
 
-THis is a simple, responsive **budget & expense tracker** built using **React.js**.  
+This is a simple, responsive **budget & expense tracker** built using **React.js**.  
 It allows users to:
 
 - Add income and expense transactions
